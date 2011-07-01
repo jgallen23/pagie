@@ -1,0 +1,16 @@
+{
+  "name": "pagie",
+  "description": "a simple pagination class",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jgallen23/pagie",
+  "authors": ["Greg Allen, @jgallen23"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgallen23/pagie.git"
+  },
+  "dependencies": {
+  },
+  "main": "./pagie.js",
+  "keywords": ["ender", "pagination"],
+  "ender": "./src/ender.js"
+}
